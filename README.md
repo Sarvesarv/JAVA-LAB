@@ -1,5 +1,13 @@
 # JAVA-LAB
 
+### Student Info
+**Student Name:** Sarvesh Jain
+**Roll No:**  24EGJAD047 
+**College:** Global Institute of Technology (GIT), Jaipur 
+**University:** Rajasthan Technical University (RTU), Kota
+**Semester:** 5th Semester (B.Tech AI & DS)
+**Subject:** Advanced Java Programming Lab Project
+
 A Java laboratory repository designed for college practical learning and hands-on programming practice. This project contains multiple Java exercises covering core Java, Swing GUI development, JDBC database connectivity, socket programming, remote communication, servlet-based web development, and a final project structure.
 
 This repository is structured as a learning workspace where each experiment demonstrates a different Java concept and application model. It is intended for academic use, self-learning, and practical revision before exams and lab assessments.
